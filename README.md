@@ -12,8 +12,11 @@ Dataset contains 4 different sets of images of all the pokémon from Gen 1 to Ge
 - Extra:
 - Small:
 
-#### Pokemon GAN/CNN
-These files are python notebooks used to develop the assignment. Currently being updating into a more friendly format.
+### Figures 
+Figures contains various output figures that were generated from the development of the models.
 
 ### Examples 
-***#TODO*** Examples contains some python notebooks showing off how the GAN and CNN work
+Examples contains the poster that was written up for the assignment submission explaining the project. ***#TODO*** There also some python notebooks showing off how the GAN and CNN work.
+
+#### Pokemon GAN/CNN
+These files are python notebooks used to develop the assignment. Currently being updating into a more friendly format.
